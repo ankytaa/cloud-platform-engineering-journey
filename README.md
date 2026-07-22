@@ -1,40 +1,31 @@
-# cloud-platform-engineering-journey-
-This is my dedicated Repo for Platform Engineering.
 # Cloud & Platform Engineering Journey
 
 This repository documents my structured transition from Enterprise Application Administration into Cloud and Platform Engineering.
 
-The learning plan focuses on product-company competencies:
+I have 5 years of experience in enterprise application administration and production operations, including Linux-based application support, DEV/UAT/PROD environment management, production deployments, incident resolution, high availability, monitoring, release support, and disaster-recovery activities.
 
-- Engineering fundamentals
-- Automation
-- Infrastructure as Code
-- Container platforms
-- CI/CD
-- Observability
-- Reliability
-- Security
-- System design
-- Developer experience
-- Product ownership
+I am currently building hands-on expertise in:
 
----
-
-## 🎯 Objective
-
-Build the practical skills required for Cloud Platform Engineer, Application Platform Engineer, Azure Cloud Engineer, DevOps Engineer, Infrastructure Automation Engineer, and Kubernetes/AKS Engineer roles.
-
-The primary technology stack is:
-
-- Linux
-- Git and GitHub
 - Microsoft Azure
+- Linux and networking
+- Git and GitHub
 - Docker
 - Kubernetes and AKS
 - Terraform
-- Azure DevOps or GitHub Actions
+- Azure DevOps and GitHub Actions
 - Prometheus and Grafana
-- Bash
-- Python
+- Bash and Python automation
+- Platform reliability and system design
 
+## Career Objective
+
+My goal is to transition into a product-based organization in roles such as:
+
+- Cloud Platform Engineer
+- Application Platform Engineer
+- Azure Cloud Engineer
+- DevOps Engineer
+- Infrastructure Automation Engineer
+- Kubernetes / AKS Engineer
+- Platform Operations Engineer
 
